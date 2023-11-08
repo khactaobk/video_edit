@@ -1,6 +1,0 @@
-framework module Pods_AI_Video {
-  umbrella header "Pods-AI-Video-umbrella.h"
-
-  export *
-  module * { export * }
-}
